@@ -6,7 +6,7 @@ Nexa AI is an AI-powered chatbot designed to assist users with various queries a
 
 💬 Conversational AI – Chat with Nexa AI for assistance.
 
-🎭 Personalized Responses – Nexa introduces itself as an AI created by Nipun Kumar.
+🎭 Personalized Responses – Nexa introduces itself as an AI created by me.
 
 ⚡ Streamed Responses – Get real-time word-by-word responses.
 
