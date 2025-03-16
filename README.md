@@ -1,6 +1,6 @@
 🗿 Nexa AI – Boundless Ally
 
-Nexa AI is an AI-powered chatbot designed to assist users with various queries and tasks. Built using Streamlit and Google Gemini API, it provides a seamless conversational experience with a touch of personalization.
+Nexa AI is an AI-powered chatbot designed to assist users with various queries and tasks. Built using Python and API integration, it provides a seamless conversational experience with a touch of personalization.
 
 🚀 Features
 
